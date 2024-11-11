@@ -2,6 +2,13 @@
 
 **[[Paper]](https://ieeexplore.ieee.org/document/10599537)**
 
+## Results and Visualization
+
+![syn-to-cityscapes](imgs/image.png) 
+
+![vis](imgs/image-1.png) 
+
+![vis-feature](imgs/image-2.png) 
 
 ## Setup Environment
 
