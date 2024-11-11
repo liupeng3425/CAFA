@@ -1,0 +1,1 @@
+uda_depth_synthia_to_cityscapes_512x512_bs2.py
